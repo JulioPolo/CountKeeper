@@ -1,0 +1,16 @@
+
+.controls {
+    padding: 25px;
+    margin: 10px auto;
+    text-align: center;
+}
+
+.scoredisplay {
+    font-size: 65px;
+    text-align: center;
+
+}
+
+.winner{
+    color: forestgreen;
+}
